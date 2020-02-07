@@ -6,7 +6,9 @@
   ●	Python 3.6 <br/>
   ● Opencv-3.4.2 <br/>
   ● Flask 1.1.1 <br/>
-# Data Flow Diagram
+# Implementation
+![alt text](implementation.gif)<br/>
+
   
 
 
